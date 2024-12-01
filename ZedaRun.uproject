@@ -26,6 +26,10 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "JoystickPlugin",
+			"Enabled": true
 		}
 	]
 }
